@@ -1,5 +1,6 @@
 # pull-up-counter
 A device to count pull ups per day, week and month using an ultrasonic ditance sensor. It is based on an ESP32 Dev Module, an ultrasonic sensor and an OLED display enclosed in an 3D printed case.
+
 <img src="https://github.com/BjoernLuig/pull-up-counter/blob/master/photos/far.jpg?raw=true" width=500>
 
 ## Functionality
